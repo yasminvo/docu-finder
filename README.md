@@ -10,4 +10,4 @@ O sistema simula um mecanismo de busca simplificado, semelhante aos utilizados p
 
 ### Diagrama
 
-![Diagrama de Fluxo de Dados do DocuFinder](images/ori-fase2.png)
+![Diagrama de Fluxo de Dados do DocuFinder](images/ori-fase2.jpg)
